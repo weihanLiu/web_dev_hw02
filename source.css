@@ -1,3 +1,4 @@
+/*different color for each letter in the title*/
 #s{
 	color: red;
 }
@@ -19,26 +20,38 @@
 #e2{
 	color: purple;
 }
+/*Links to w3shcools and wiki*/
 #Links{
 	padding-bottom: 10px;
 }
+
+/*image of the sea otter*/
 img{
 	border:5px solid #bdc3c7;
 	padding: 10px,10px;
 	width:100%;
 	max-width: 1000px;
 }
+/*title for the table*/
 h3{
 	margin-bottom: 2px;
 }
+/*table heading*/
 th{
 	padding: 10px;
 	border:3px solid;
 }
+/*table cells*/
 td{
 	padding: 10px;
 	border:3px solid;
 }
+/*whole table*/
 table{
 	border:solid 2px;
 }
+/*title of the sea otter picture*/
+#picTitle{
+	font-size: 26px;
+}
+
