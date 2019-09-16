@@ -2,32 +2,32 @@ Please fill in answers to the questions below:
 
 
 1. What's your name?
-
+Weihan Liu
 
 2. What hostname did you deploy to?
-
+hw02.weihanliu.space
 
 3. What's the link to your repository on github with your code?
-
+https://github.com/weihanLiu/web_dev_hw02
 
 4. How many HTML / CSS tutorial exercises did you do?
-
+5
 
 5. How comfortable do you feel with HTML and CSS now?
-
+comfortable with html, need more practice with css
 
 6. How many JS tutorial exercises did you do?
-
+more than 5
 
 7. How comfortable do you feel with JS now?
-
+can do simple things. 
 
 8. Do all of your HTML pages pass the W3C HTML validator?
 (https://validator.w3.org/)
-
+Yes. 
 
 9. Which parts of this assignment did you have trouble with, if any?
-
+Debugging for the calculator, such as rounding errors, display out of bound, etc.  
 
 
 
